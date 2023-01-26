@@ -1,0 +1,9 @@
+{
+  "name": "BHQ Mobile",
+  "author": "Soltus",
+  "url": "https://github.com/Soltus/BHQ-Mobile",
+  "version": "1.0.2",
+  "modes": [
+    "light"
+  ]
+}
